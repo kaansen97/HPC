@@ -1,0 +1,19 @@
+
+
+Total time:                 110131 millisconds
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 28402423347
+Avg. time per pixel:        26.2573 microseconds
+Avg. time per iteration:    0.00387753 microseconds
+Iterations/second:          2.57896e+08
+MFlop/s:                    2063.17
+
+
+========= mandelbrotseq ======================
+Total time:                 27467.8 millisconds
+Image size:                 1024 x 1024 = 1048576 Pixels
+Total number of iterations: 7103438305
+Avg. time per pixel:        26.1954 microseconds
+Avg. time per iteration:    0.00386684 microseconds
+Iterations/second:          2.58609e+08
+MFlop/s:                    2068.87

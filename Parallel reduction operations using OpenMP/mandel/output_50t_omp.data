@@ -1,0 +1,17 @@
+Total time:                 110319 millisconds
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 28388754939
+Avg. time per pixel:        26.302 microseconds
+Avg. time per iteration:    0.003886 microseconds
+Iterations/second:          2.57334e+08
+MFlop/s:                    2058.67
+
+========= mandelbrot_omp ======================
+Total time:                 27482.5 millisconds
+Image size:                 1024 x 1024 = 1048576 Pixels
+Total number of iterations: 7096659743
+Avg. time per pixel:        26.2094 microseconds
+Avg. time per iteration:    0.0038726 microseconds
+Iterations/second:          2.58225e+08
+MFlop/s:                    2065.8
+

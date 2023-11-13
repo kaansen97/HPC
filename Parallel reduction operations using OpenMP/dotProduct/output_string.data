@@ -1,0 +1,110 @@
+For N equals =100000 Serial execution time = 0.015131 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.013312 sec, time using critical method 0.103065 sec
+For N equals =100000 Serial execution time = 0.015101 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.009271 sec, time using critical method 0.103433 sec
+For N equals =100000 Serial execution time = 0.015253 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.010009 sec, time using critical method 0.10302 sec
+For N equals =100000 Serial execution time = 0.015006 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.008252 sec, time using critical method 0.103245 sec
+For N equals =100000 Serial execution time = 0.015025 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.009294 sec, time using critical method 0.103656 sec
+For N equals =100000 Serial execution time = 0.015016 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.009612 sec, time using critical method 0.103185 sec
+For N equals =100000 Serial execution time = 0.015227 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.011504 sec, time using critical method 0.102786 sec
+For N equals =100000 Serial execution time = 0.014981 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.0102 sec, time using critical method 0.105692 sec
+For N equals =100000 Serial execution time = 0.015066 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.010258 sec, time using critical method 0.102834 sec
+For N equals =100000 Serial execution time = 0.015003 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.009567 sec, time using critical method 0.102753 sec
+For N equals =100000 Serial execution time = 0.014986 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.008206 sec, time using critical method 0.104006 sec
+For N equals =100000 Serial execution time = 0.015003 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.009736 sec, time using critical method 0.102659 sec
+For N equals =100000 Serial execution time = 0.015023 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.009319 sec, time using critical method 0.1046 sec
+For N equals =100000 Serial execution time = 0.015001 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.008055 sec, time using critical method 0.102999 sec
+For N equals =100000 Serial execution time = 0.015092 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.011601 sec, time using critical method 0.10303 sec
+For N equals =100000 Serial execution time = 0.014975 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.009556 sec, time using critical method 0.103781 sec
+For N equals =100000 Serial execution time = 0.014988 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.00963 sec, time using critical method 0.102891 sec
+For N equals =100000 Serial execution time = 0.01508 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.008654 sec, time using critical method 0.10352 sec
+For N equals =100000 Serial execution time = 0.015016 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.009542 sec, time using critical method 0.103417 sec
+For N equals =100000 Serial execution time = 0.015058 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.010746 sec, time using critical method 0.102801 sec
+For N equals =100000 Serial execution time = 0.014997 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.009247 sec, time using critical method 0.104443 sec
+For N equals =100000 Serial execution time = 0.015084 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.008152 sec, time using critical method 0.103693 sec
+For N equals =100000 Serial execution time = 0.015081 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.010995 sec, time using critical method 0.103887 sec
+For N equals =100000 Serial execution time = 0.015153 sec Parallel dot product = 3.33328e+13 time using reduction method = 0.008638 sec, time using critical method 0.103899 sec
+
+
+------------------------------------------------------
+
+For N equals =1000000 Serial execution time = 0.153772 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.035871 sec, time using critical method 1.04154 sec
+For N equals =1000000 Serial execution time = 0.152163 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036332 sec, time using critical method 1.04075 sec
+For N equals =1000000 Serial execution time = 0.152496 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.035719 sec, time using critical method 1.03728 sec
+For N equals =1000000 Serial execution time = 0.152068 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036932 sec, time using critical method 1.03824 sec
+For N equals =1000000 Serial execution time = 0.152845 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036768 sec, time using critical method 1.03447 sec
+For N equals =1000000 Serial execution time = 0.151805 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036071 sec, time using critical method 1.03365 sec
+For N equals =1000000 Serial execution time = 0.151512 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.034596 sec, time using critical method 1.03532 sec
+For N equals =1000000 Serial execution time = 0.15201 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.041269 sec, time using critical method 1.03697 sec
+For N equals =1000000 Serial execution time = 0.151895 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.038927 sec, time using critical method 1.03899 sec
+For N equals =1000000 Serial execution time = 0.151397 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.038172 sec, time using critical method 1.03382 sec
+For N equals =1000000 Serial execution time = 0.151673 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.0373 sec, time using critical method 1.03463 sec
+For N equals =1000000 Serial execution time = 0.151753 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036819 sec, time using critical method 1.03373 sec
+For N equals =1000000 Serial execution time = 0.151612 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.038683 sec, time using critical method 1.03763 sec
+For N equals =1000000 Serial execution time = 0.152019 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036239 sec, time using critical method 1.03719 sec
+For N equals =1000000 Serial execution time = 0.151675 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036637 sec, time using critical method 1.03434 sec
+For N equals =1000000 Serial execution time = 0.151596 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036542 sec, time using critical method 1.03398 sec
+For N equals =1000000 Serial execution time = 0.15185 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.037534 sec, time using critical method 1.03355 sec
+For N equals =1000000 Serial execution time = 0.151864 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036647 sec, time using critical method 1.03381 sec
+For N equals =1000000 Serial execution time = 0.151768 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.039083 sec, time using critical method 1.03415 sec
+For N equals =1000000 Serial execution time = 0.151916 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036497 sec, time using critical method 1.0385 sec
+For N equals =1000000 Serial execution time = 0.152208 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.03666 sec, time using critical method 1.03452 sec
+For N equals =1000000 Serial execution time = 0.151676 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.036324 sec, time using critical method 1.03365 sec
+For N equals =1000000 Serial execution time = 0.151521 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.034561 sec, time using critical method 1.03894 sec
+For N equals =1000000 Serial execution time = 0.151672 sec Parallel dot product = 3.33333e+16 time using reduction method = 0.035998 sec, time using critical method 1.05081 sec
+
+
+------------------------------------------------
+
+For N equals =10000000 Serial execution time = 1.52022 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.259978 sec, time using critical method 10.3601 sec
+For N equals =10000000 Serial execution time = 1.51989 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.250888 sec, time using critical method 10.3537 sec
+For N equals =10000000 Serial execution time = 1.51841 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.273716 sec, time using critical method 10.4008 sec
+For N equals =10000000 Serial execution time = 1.51726 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.268142 sec, time using critical method 10.399 sec
+For N equals =10000000 Serial execution time = 1.52276 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.277448 sec, time using critical method 10.3554 sec
+For N equals =10000000 Serial execution time = 1.51839 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.25784 sec, time using critical method 10.3767 sec
+For N equals =10000000 Serial execution time = 1.52387 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.28437 sec, time using critical method 10.4319 sec
+For N equals =10000000 Serial execution time = 1.62106 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.402736 sec, time using critical method 10.3905 sec
+For N equals =10000000 Serial execution time = 1.52202 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.287451 sec, time using critical method 10.6254 sec
+For N equals =10000000 Serial execution time = 1.56601 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.264639 sec, time using critical method 10.451 sec
+For N equals =10000000 Serial execution time = 1.54554 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.275403 sec, time using critical method 10.4131 sec
+For N equals =10000000 Serial execution time = 1.56975 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.284412 sec, time using critical method 10.4927 sec
+For N equals =10000000 Serial execution time = 1.52632 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.277305 sec, time using critical method 10.3724 sec
+For N equals =10000000 Serial execution time = 1.52618 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.292397 sec, time using critical method 10.3633 sec
+For N equals =10000000 Serial execution time = 1.52905 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.267684 sec, time using critical method 10.3893 sec
+For N equals =10000000 Serial execution time = 1.52213 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.268258 sec, time using critical method 10.389 sec
+For N equals =10000000 Serial execution time = 1.52749 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.393788 sec, time using critical method 10.4418 sec
+For N equals =10000000 Serial execution time = 1.52311 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.260203 sec, time using critical method 10.4673 sec
+For N equals =10000000 Serial execution time = 1.5181 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.270425 sec, time using critical method 10.3532 sec
+For N equals =10000000 Serial execution time = 1.5182 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.267741 sec, time using critical method 10.3578 sec
+For N equals =10000000 Serial execution time = 1.51826 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.271538 sec, time using critical method 10.441 sec
+For N equals =10000000 Serial execution time = 1.52479 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.280763 sec, time using critical method 10.4165 sec
+For N equals =10000000 Serial execution time = 1.52116 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.263906 sec, time using critical method 10.3697 sec
+For N equals =10000000 Serial execution time = 1.52071 sec Parallel dot product = 3.33333e+19 time using reduction method = 0.294181 sec, time using critical method 10.4281 sec
+
+
+-------------------------------------------------
+
+For N equals =100000000 Serial execution time = 16.8476 sec Parallel dot product = 3.33333e+22 time using reduction method = 4.17949 sec, time using critical method 111.49 sec
+For N equals =100000000 Serial execution time = 15.6011 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.3696 sec, time using critical method 106.862 sec
+For N equals =100000000 Serial execution time = 15.5005 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.37377 sec, time using critical method 107.539 sec
+For N equals =100000000 Serial execution time = 15.8722 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.29697 sec, time using critical method 107.119 sec
+For N equals =100000000 Serial execution time = 15.8027 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.36825 sec, time using critical method 106.58 sec
+For N equals =100000000 Serial execution time = 15.7176 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.30367 sec, time using critical method 108.03 sec
+For N equals =100000000 Serial execution time = 15.8199 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.44718 sec, time using critical method 107.493 sec
+For N equals =100000000 Serial execution time = 15.6882 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.34389 sec, time using critical method 108.59 sec
+For N equals =100000000 Serial execution time = 15.6124 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.38513 sec, time using critical method 108.173 sec
+For N equals =100000000 Serial execution time = 15.6167 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.33814 sec, time using critical method 106.821 sec
+For N equals =100000000 Serial execution time = 15.518 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.34709 sec, time using critical method 107.661 sec
+For N equals =100000000 Serial execution time = 15.7074 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.38585 sec, time using critical method 106.249 sec
+For N equals =100000000 Serial execution time = 15.6797 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.49942 sec, time using critical method 108.349 sec
+For N equals =100000000 Serial execution time = 15.9824 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.47775 sec, time using critical method 106.63 sec
+For N equals =100000000 Serial execution time = 15.6603 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.41244 sec, time using critical method 9502.89 sec
+For N equals =100000000 Serial execution time = 15.5941 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.37603 sec, time using critical method 107.878 sec
+For N equals =100000000 Serial execution time = 15.764 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.3788 sec, time using critical method 107.45 sec
+For N equals =100000000 Serial execution time = 16.064 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.44403 sec, time using critical method 109.695 sec
+For N equals =100000000 Serial execution time = 15.6679 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.57288 sec, time using critical method 107.316 sec
+For N equals =100000000 Serial execution time = 15.7154 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.49499 sec, time using critical method 108.8 sec
+For N equals =100000000 Serial execution time = 15.6483 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.53137 sec, time using critical method 106.372 sec
+For N equals =100000000 Serial execution time = 15.9313 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.27735 sec, time using critical method 106.126 sec
+For N equals =100000000 Serial execution time = 15.7301 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.42237 sec, time using critical method 106.699 sec
+For N equals =100000000 Serial execution time = 15.5033 sec Parallel dot product = 3.33333e+22 time using reduction method = 2.35758 sec, time using critical method 107.329 sec
+
+

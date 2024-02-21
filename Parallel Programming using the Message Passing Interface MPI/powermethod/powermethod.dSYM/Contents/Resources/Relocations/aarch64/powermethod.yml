@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     powermethod
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _hpc_generateMatrix, symObjAddr: 0x0, symBinAddr: 0x100003410, symSize: 0xE4 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _rank, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _size, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0xE3, offset: 0xE3, size: 0x8, addend: 0x0, symName: _hpc_generateMatrix, symObjAddr: 0x0, symBinAddr: 0x100003410, symSize: 0xE4 }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: _hpc_verify, symObjAddr: 0xE4, symBinAddr: 0x1000034F4, symSize: 0x64 }
+  - { offsetInCU: 0x1D4, offset: 0x1D4, size: 0x8, addend: 0x0, symName: _hpc_timer, symObjAddr: 0x148, symBinAddr: 0x100003558, symSize: 0x4C }
+  - { offsetInCU: 0x26E, offset: 0x26E, size: 0x8, addend: 0x0, symName: _normalizeVec, symObjAddr: 0x194, symBinAddr: 0x1000035A4, symSize: 0x94 }
+  - { offsetInCU: 0x2A8, offset: 0x2A8, size: 0x8, addend: 0x0, symName: _createMatrix, symObjAddr: 0x228, symBinAddr: 0x100003638, symSize: 0x1BC }
+  - { offsetInCU: 0x35D, offset: 0x35D, size: 0x8, addend: 0x0, symName: _matVec, symObjAddr: 0x3E4, symBinAddr: 0x1000037F4, symSize: 0xFC }
+  - { offsetInCU: 0x521, offset: 0x521, size: 0x8, addend: 0x0, symName: _powerMethod, symObjAddr: 0x4E0, symBinAddr: 0x1000038F0, symSize: 0x2A0 }
+  - { offsetInCU: 0x71D, offset: 0x71D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x780, symBinAddr: 0x100003B90, symSize: 0x330 }
+...

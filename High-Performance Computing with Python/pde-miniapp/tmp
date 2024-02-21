@@ -1,0 +1,2 @@
+srun: Warning: can't honor --ntasks-per-node set to 1 which doesn't match the requested tasks 16 with the number of requested nodes 1. Ignoring --ntasks-per-node.
+srun: error: Unable to create step for job 1520775: More processors requested than permitted
